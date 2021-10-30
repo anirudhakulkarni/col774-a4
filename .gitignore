@@ -1,0 +1,18 @@
+# datasets
+*.zip
+*.tar.gz
+*.tgz
+*.tar
+*.json
+*.csv
+*.xlsx
+*.xls
+*.tsv
+*.npy
+*.model
+test_data
+*.data
+"\n"
+\n
+*.pkl
+*.clean 
